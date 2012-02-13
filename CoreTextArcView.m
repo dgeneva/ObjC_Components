@@ -1,9 +1,9 @@
 //
 //  CoreTextArcView.m
-//  ArcTextExplore2
+//  DMAComponents
 //
 //  Created by David Marioni on 27.12.11.
-//  Copyright (c) 2011 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2011 David Marioni. All rights reserved.
 //
 #import "CoreTextArcView.h"
 #import <AssertMacros.h>

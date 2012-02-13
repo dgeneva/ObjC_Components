@@ -1,9 +1,9 @@
 //
 //  UIImage-Extensions.m
-//  LapTimer
+//  DMAComponents
 //
 //  Created by David Marioni on 21.12.11.
-//  Copyright (c) 2011 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2011 David Marioni. All rights reserved.
 //
 
 #import "UIImage-Extensions.h"
